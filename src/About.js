@@ -12,7 +12,10 @@ function About() {
             👇
           </span>
         </p>
-        <a id="underline" href="https://google.com">
+        <a
+          id="underline"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdJPWxnZ-_vRWNCwyf2wHVX0rnjwjaYy6iAeRnIxgdhGueGeQ/viewform?usp=sf_link"
+        >
           {" "}
           Envoyer ma Suggestion
         </a>
