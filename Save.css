@@ -1,0 +1,73 @@
+body {
+  background: #ffe5d9;
+  font-family: Arial, sans-serif;
+  line-height: 1.2;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 14px;
+}
+
+hr {
+  background-color: #2a9d8f;
+}
+
+.linkToContainer {
+  text-align: right;
+}
+
+.linkTo {
+  text-decoration: none;
+  color: white;
+}
+
+.card {
+  padding-top: 1px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 8px;
+  background: rgb(245, 176, 176);
+  max-width: 360px;
+  border-radius: 20px;
+  margin: 8px auto;
+  color: white;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #294;
+}
+
+.shadow1 {
+  background-color: #f4a261;
+  margin-top: 8px;
+  border-radius: 16px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.028), 0 12.5px 10px rgba(0, 0, 0, 0.035),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.042), 0 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    0 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.shadow2 {
+  background-color: #e9c46a;
+  margin-top: 8px;
+  border-radius: 16px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.028), 0 12.5px 10px rgba(0, 0, 0, 0.035),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.042), 0 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    0 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+/* Header */
