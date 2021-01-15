@@ -13,7 +13,10 @@ function Home() {
         </p>
         <p>
           Vous pouvez retrouver divers ressources, App, articles, video, numéros
-          d'ugence ici 👇
+          d'ugence ici{" "}
+          <span role="img" alt="emoji" aria-label="down">
+            👇
+          </span>
         </p>
       </div>
       <h1 className="homeWrapper"> Ecoute et urgences</h1>
